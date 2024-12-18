@@ -1,4 +1,4 @@
-# chatbot-for-customer-service
+
 # Intelligent Customer Support Chatbot
 
 This project involves creating an intelligent customer support chatbot that can understand user queries and provide accurate responses. The chatbot uses NLP techniques such as text classification, named entity recognition (NER), and language models.

@@ -1,5 +1,10 @@
-
 # Intelligent Customer Support Chatbot
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=for-the-badge)](https://jupyter.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&style=for-the-badge)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 
 This project involves creating an intelligent customer support chatbot that can understand user queries and provide accurate responses. The chatbot uses NLP techniques such as text classification, named entity recognition (NER), and language models.
 
